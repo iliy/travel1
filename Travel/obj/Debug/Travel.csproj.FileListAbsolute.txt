@@ -1,1 +1,9 @@
 C:\Dev\Travel\Travel\bin\Debug\Travel.exe.config
+C:\Dev\Travel\Travel\bin\Debug\Travel.exe
+C:\Dev\Travel\Travel\bin\Debug\Travel.pdb
+C:\Dev\Travel\Travel\obj\Debug\Travel.csprojResolveAssemblyReference.cache
+C:\Dev\Travel\Travel\obj\Debug\Travel.Form1.resources
+C:\Dev\Travel\Travel\obj\Debug\Travel.Properties.Resources.resources
+C:\Dev\Travel\Travel\obj\Debug\Travel.csproj.GenerateResource.Cache
+C:\Dev\Travel\Travel\obj\Debug\Travel.exe
+C:\Dev\Travel\Travel\obj\Debug\Travel.pdb

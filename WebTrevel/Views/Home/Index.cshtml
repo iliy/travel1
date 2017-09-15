@@ -1,0 +1,30 @@
+﻿@model WebTrevel.Models.TravelInfoModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<div>
+    <h4>TravelInfoModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Token)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Token)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Marker)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Marker)
+        </dd>
+
+    </dl>
+</div>

@@ -1,0 +1,8 @@
+C:\Dev\Travel\TestConsoleApp\bin\Debug\TestConsoleApp.exe.config
+C:\Dev\Travel\TestConsoleApp\bin\Debug\TestConsoleApp.exe
+C:\Dev\Travel\TestConsoleApp\bin\Debug\TestConsoleApp.pdb
+C:\Dev\Travel\TestConsoleApp\bin\Debug\AppCore.dll
+C:\Dev\Travel\TestConsoleApp\bin\Debug\AppCore.pdb
+C:\Dev\Travel\TestConsoleApp\obj\Debug\TestConsoleApp.csprojResolveAssemblyReference.cache
+C:\Dev\Travel\TestConsoleApp\obj\Debug\TestConsoleApp.exe
+C:\Dev\Travel\TestConsoleApp\obj\Debug\TestConsoleApp.pdb
