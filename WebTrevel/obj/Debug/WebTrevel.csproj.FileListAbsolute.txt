@@ -61,3 +61,9 @@ C:\Dev\Travel\WebTrevel\bin\ru\System.Web.Http.WebHost.resources.dll
 C:\Dev\Travel\WebTrevel\obj\Debug\WebTrevel.csprojResolveAssemblyReference.cache
 C:\Dev\Travel\WebTrevel\obj\Debug\WebTrevel.dll
 C:\Dev\Travel\WebTrevel\obj\Debug\WebTrevel.pdb
+C:\Dev\Travel\WebTrevel\bin\Antlr3.Runtime.dll
+C:\Dev\Travel\WebTrevel\bin\System.Web.Optimization.dll
+C:\Dev\Travel\WebTrevel\bin\WebGrease.dll
+C:\Dev\Travel\WebTrevel\bin\Antlr3.Runtime.pdb
+C:\Dev\Travel\WebTrevel\bin\System.Web.Optimization.xml
+C:\Dev\Travel\WebTrevel\bin\ru\System.Web.Optimization.resources.dll
