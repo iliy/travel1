@@ -1,5 +1,0 @@
-C:\Dev\Travel\AppCore\bin\Debug\AppCore.dll
-C:\Dev\Travel\AppCore\bin\Debug\AppCore.pdb
-C:\Dev\Travel\AppCore\obj\Debug\AppCore.csprojResolveAssemblyReference.cache
-C:\Dev\Travel\AppCore\obj\Debug\AppCore.dll
-C:\Dev\Travel\AppCore\obj\Debug\AppCore.pdb
